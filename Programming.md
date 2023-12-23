@@ -39,7 +39,7 @@ Functions serve as essential building blocks in code, encapsulating a clear and 
 **Object-Oriented Programming (OOP)**
 Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of objects, which are instances of classes. It is a powerful and widely used approach to software development that aims to organize code in a way that models real-world entities and their interactions.
 
-**Debugging*
+**Debugging**
 Debugging is very important for every programmer because every programmer makes mistakes when writing code. Debugging is the process of identifying and resolving errors or defects in a software program. It is an essential skill that involves locating and fixing issues that cause the program to behave unexpectedly or crash. Debugging involves processes such as: Identifying Bugs, Locating the Cause, Using Debugging Tools, Fixing the Bug, and Testing.
 
 **Conclusion**
