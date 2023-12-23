@@ -7,7 +7,7 @@ Throughout my years as a software developer, I've written programs in various pr
 
 In this blog, I'll be exploring essential concepts that every programmer should grasp, regardless of the programming language they work with.
 
-**Prerequisites**
+**Prerequisites*
 To write software programs in any programming language, you'll require the following essential prerequisites:
 **Text editor:** A software application designed for creating and editing text files. Text editors tailored for programming offer syntax highlighting and auto-completion features to facilitate coding. Popular choices include Notepad++, Atom, Sublime Text, and Visual Studio Code.
 
