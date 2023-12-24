@@ -15,7 +15,7 @@ To write software programs in any programming language, you'll require the follo
 
 **Interpreter:** An interpreter directly executes the source code without the need for a compilation step. This means you can run your program immediately after writing it, without compiling it first. However, interpreters can be slower than compilers and might only support some programming languages.
 
-These prerequisites collectively form the programming "environment," providing the necessary tools and resources to write and execute programs. Remember that the specific environment can vary depending on the programming language used; for instance, the environment for C++ differs from that of .
+These prerequisites collectively form the programming "environment," providing the necessary tools and resources to write and execute programs. Remember that the specific environment can vary depending on the programming language used; for instance, the environment for C++ differs from that of Python.
 
 **Understanding Programming and Programming Languages**
 Programming is the art of providing instructions, typically in a computer-readable language, to execute specific tasks. 
