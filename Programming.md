@@ -27,7 +27,7 @@ Fundamental concepts are shared among all programming languages. Some of these c
 **Variable Declaration**
  In computer programming, a variable declaration is a statement that defines a variable. A variable is a named location in memory that can store a value. The variable declaration specifies the variable's name, the variable's data type, and the variable's initial value. The syntax for a variable declaration varies in different programming languages.
  
-**Data Types*
+**Data Types**
 In computer programming, a data type is a classification of data that tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, character or string, and boolean.
 
 **Control Flow**
