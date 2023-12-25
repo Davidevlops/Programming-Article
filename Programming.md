@@ -30,7 +30,7 @@ Fundamental concepts are shared among all programming languages. Some of these c
 **Data Types**
 In computer programming, a data type is a classification of data that tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support various types of data, including integer, character or string, and boolean.
 
-**Control Flow*
+**Control Flow**
 In computer programming, control flow refers to the order in which the statements in a program are executed. Control flow statements are used to alter the order of execution, such as by repeating a block of code or branching to a different part of the program. There are two main types of control flow statements: loops and conditionals. **Loops **serve the purpose of repeating a block of code either for a specific number of iterations or until a particular condition is satisfied. This repetition process is commonly referred to as iteration. There are two primary types of loops: the 'for' loop, used for a predetermined number of iterations, and the 'while' loop, employed to continue until a given condition holds. **Conditionals **are vital for controlling a program's flow based on specific conditions. There are two primary types of conditionals: the 'if' statement, which enables branching based on the truth of a condition, and the 'switch' statement, which facilitates selecting different paths in the program based on the value of a variable.
 
 **Functions**
