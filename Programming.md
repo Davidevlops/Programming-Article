@@ -1,6 +1,6 @@
 ![A code running on the monitor](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6bwd37gst42768o7jlt.jpg)
 
-# Programming 101: The Keys to Mastering Any Programming Language
+# Computer Programming 101: The Keys to Mastering Any Programming Language
 
 {% tag programming %} {% tag softwaredevelopment %} {% tag code newbie %} {% tag code newbie %} {% tag beginners  %} {% tag softwarengineer %}
 
